@@ -8,6 +8,8 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Styles for header class */
+
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -70,6 +72,8 @@ p {
   margin-left: 25px;
 }
 
+/* Styles for content section */
+
 .content {
   width: 75%;
   display: inline-block;
@@ -120,6 +124,8 @@ p {
   margin-bottom: 20px;
   font-size: 36px;
 }
+
+/* Styles for footer */
 
 .footer {
   padding: 30px;
